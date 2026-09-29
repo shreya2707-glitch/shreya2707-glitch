@@ -1,52 +1,88 @@
-##  profile
+🦋
 
-<p><code>shreya2707-glitch@github:~$ whoami</code></p>
+Shreya [Projects](#archive)[Craft](#craft)[Say hi](#contact)
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=shreya2707-glitch&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251853321%3Fv%3D4&style=terminal" alt="shreya2707-glitch hero visual" />
-</p>
+# Shreya*.*
 
-**Shreya Panda** · Open-source maintainer
+**\~/shreya** $
 
-## Why I build in public
+I build security tools by day and write poems by night. Both are ways of finding what's hidden.
 
-> CSE student | Cybersecurity enthusiast | Open Source explorer | Building, breaking &amp; learning | Writer
+## Second year, *many doors.*
 
-- 👥 **1** followers · **4** following
+I'm a B.Tech Computer Science student at Symbiosis Institute of Technology, Pune. I like software that does something real: a simulator that catches an attacker, a model that corrects a drifting sensor, a website that holds a poem.
 
-**Open to:** thoughtful collaboration and useful open source
+Right now I'm sharpening DSA in C++, learning backend and DevOps, and looking for internships and open-source projects where I can contribute. Outside the terminal: Model UN, public speaking, and writing.
 
-## Open-source toolbox
+## The *archive*
 
-<p><code>shreya2707-glitch@github:~$ toolbox --list</code></p>
+- ### Cyber Incident Simulator
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=shreya2707-glitch&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251853321%3Fv%3D4&style=terminal" alt="shreya2707-glitch stack visual" />
-</p>
+  Python · MITRE ATT&CK · Incident Response
 
-## Repositories
+  Generates incidents, correlates events, flags suspicious activity, maps it to MITRE ATT&CK and writes the investigation report.
+- ### DepShield AI
 
-- [Programming-with-Java-3rd-SEM](https://github.com/shreya2707-glitch/Programming-with-Java-3rd-SEM) — Java · 1 stars
-- [mixtape](https://github.com/shreya2707-glitch/mixtape) — HTML · 1 stars
-- [shreya2707-glitch](https://github.com/shreya2707-glitch/shreya2707-glitch) — open source · 0 stars
-- [Static-and-Stanza](https://github.com/shreya2707-glitch/Static-and-Stanza) — HTML · 0 stars
-- [SIH26168](https://github.com/shreya2707-glitch/SIH26168) — HTML · 0 stars
-- [contactless-pulse-monitor](https://github.com/shreya2707-glitch/contactless-pulse-monitor) — Python · 0 stars
+  Python · AI/ML · Supply-chain security
 
-## Contribution activity
+  A concept for spotting vulnerable or suspicious dependencies and judging what a third-party package could do to your project.
+- ### The Hollow Archive
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=shreya2707-glitch&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251853321%3Fv%3D4" alt="shreya2707-glitch stats visual" />
-</p>
+  HTML · CSS · JavaScript · Canvas
 
-<p><code>160 contributions</code> · <code>4 day streak</code></p>
+  A dark-fantasy visual novel with branching stories, saved state and atmospheric effects. Built with no frameworks.
+- ### Dead Reckoning System
 
-## Find me in the community
+  AI/ML · Sensor fusion · Embedded
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=shreya2707-glitch&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251853321%3Fv%3D4" alt="shreya2707-glitch social visual" />
-</p>
+  Navigation without GPS. It fuses IMU, wheel-encoder and magnetometer data and uses machine learning to correct drift.
+- ### BTC-Adapt
 
-<a href="https://github.com/shreya2707-glitch">GitHub</a>
+  Python · XGBoost · LSTM · Time series
 
-<p align="center"><sub>Shreya Panda · Open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+  A Bitcoin forecasting framework that switches models by market regime, with evaluation and backtesting.
+- ### Static & Stanza
+
+  HTML · CSS · JavaScript · Netlify
+
+  A minimalist poetry site where web development and creative writing share one page.
+
+## What's on *my shelves*
+
+### Languages
+
+CC++PythonJavaJavaScriptSQL
+
+### Security
+
+Digital forensicsIncident responseMITRE ATT&CKSIEMThreat detectionVulnerability analysis
+
+### Web
+
+HTMLCSSREST APIsFull-stack
+
+### AI / ML
+
+XGBoostLSTMForecastingModel evaluationEDA
+
+### Tools
+
+Git & GitHubLinuxDockerVS CodeVirtualBox
+
+### Learning now
+
+DSABackendDevOpsSystem design
+
+Somewhere between debugging code and writing poetry, I'm still figuring out what to build next.
+
+Strengthen C++ & DSAShip meaningful projectsGrow in cybersecurityContribute to open sourceExplore backend
+
+Smart India Hackathon 2026, SIT hackathons, Model UN and a lot of open-source exploring so far.
+
+## Let's *build* something
+
+Open to internships, collaborations and good conversations about security, software or verse.
+
+[GitHub](https://github.com/shreya2707-glitch) [LinkedIn](https://www.linkedin.com/in/shreya-panda-a7691b320/) [Email me](mailto:shreyapanda2707@gmail.com)
+
+Built by hand, by lamplight. Move your cursor, the light follows.

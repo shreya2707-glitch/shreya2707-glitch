@@ -14,7 +14,7 @@
 
 > *Building things, breaking things, learning from them, and occasionally writing about them.*
 
----
+<p align="center"><img src="./divider.svg" width="100%" alt=""/></p>
 
 ## 🕯️ Second year, *many doors*
 
@@ -45,7 +45,7 @@ I split my curiosity between **security**, **software**, **machine learning** an
 </tr>
 </table>
 
----
+<p align="center"><img src="./divider.svg" width="100%" alt=""/></p>
 
 ## 📚 The archive
 
@@ -106,7 +106,7 @@ An **adaptive, regime-aware multi-model framework** for Bitcoin price forecastin
 A minimalist **poetry and writing website**, built to combine web development with creative writing. Small on purpose.
 </details>
 
----
+<p align="center"><img src="./divider.svg" width="100%" alt=""/></p>
 
 ## 🧰 On my shelves
 
@@ -123,7 +123,7 @@ A minimalist **poetry and writing website**, built to combine web development wi
 | 🗄️ **Data** | SQL · Relational databases · Database design · Joins and subqueries |
 | 🧰 **Tools** | Git · GitHub · VS Code · Linux · Windows · VirtualBox · Docker |
 
----
+<p align="center"><img src="./divider.svg" width="100%" alt=""/></p>
 
 ## 🧭 Where I'm headed
 
@@ -144,17 +144,26 @@ A minimalist **poetry and writing website**, built to combine web development wi
 - [ ] Explore **backend and full-stack** development
 - [x] Keep learning and shipping
 
----
+<p align="center"><img src="./divider.svg" width="100%" alt=""/></p>
 
-## 🏆 Field notes
+## 🏆 The hackathon trail
 
-- 🚀 **Smart India Hackathon 2026**
-- 💡 SIT hackathons
+<p>
+  <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-2026-f0c26a?style=for-the-badge&labelColor=130e1e"/>
+  <img src="https://img.shields.io/badge/Adobe-Hackathon-a99cff?style=for-the-badge&labelColor=130e1e&logo=adobe&logoColor=f0c26a"/>
+  <img src="https://img.shields.io/badge/Navchar-Hackathon-f0c26a?style=for-the-badge&labelColor=130e1e"/>
+  <img src="https://img.shields.io/badge/HackDevengers-a99cff?style=for-the-badge&labelColor=130e1e"/>
+  <img src="https://img.shields.io/badge/SIT-Hackathons-f0c26a?style=for-the-badge&labelColor=130e1e"/>
+</p>
+
+Building against a clock is where ideas turn into working software. I've taken part in **Smart India Hackathon 2026**, the **Adobe Hackathon**, the **Navchar Hackathon**, **HackDevengers** and hackathons at **SIT**.
+
+**Beyond hackathons:**
 - 🧑‍💻 Open-source exploration
 - 🎤 Model United Nations, public speaking and presentations
 - ✍️ Poetry and creative writing
 
----
+<p align="center"><img src="./divider.svg" width="100%" alt=""/></p>
 
 ## 📈 The numbers
 
@@ -163,7 +172,7 @@ A minimalist **poetry and writing website**, built to combine web development wi
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya2707-glitch&layout=compact&hide_border=true&bg_color=130e1e&title_color=f0c26a&text_color=eee7f4"/>
 </p>
 
----
+<p align="center"><img src="./divider.svg" width="100%" alt=""/></p>
 
 ## 🤝 Let's build something
 

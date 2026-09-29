@@ -1,88 +1,177 @@
-🦋
+<p align="center">
+  <img src="./hero.svg" alt="Shreya. Student, builder, poet." width="100%"/>
+</p>
 
-Shreya [Projects](#archive)[Craft](#craft)[Say hi](#contact)
+<p align="center">
+  <b>B.Tech CSE · Symbiosis Institute of Technology, Pune</b><br/>
+  <sub>cybersecurity · web · applied ML · poetry</sub>
+</p>
 
-# Shreya*.*
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreya-panda-a7691b320/"><img src="https://img.shields.io/badge/LinkedIn-say%20hi-a99cff?style=for-the-badge&labelColor=130e1e&logo=linkedin&logoColor=f0c26a"/></a>
+  <a href="mailto:shreyapanda2707@gmail.com"><img src="https://img.shields.io/badge/Email-write%20to%20me-f0c26a?style=for-the-badge&labelColor=130e1e&logo=gmail&logoColor=a99cff"/></a>
+</p>
 
-**\~/shreya** $
+> *Building things, breaking things, learning from them, and occasionally writing about them.*
 
-I build security tools by day and write poems by night. Both are ways of finding what's hidden.
+---
 
-## Second year, *many doors.*
+## 🕯️ Second year, *many doors*
 
-I'm a B.Tech Computer Science student at Symbiosis Institute of Technology, Pune. I like software that does something real: a simulator that catches an attacker, a model that corrects a drifting sensor, a website that holds a poem.
+I'm a second-year Computer Science student, and I'm most interested in software that does something real: a simulator that catches an attacker, a model that corrects a drifting sensor, a website that holds a poem.
 
-Right now I'm sharpening DSA in C++, learning backend and DevOps, and looking for internships and open-source projects where I can contribute. Outside the terminal: Model UN, public speaking, and writing.
+I split my curiosity between **security**, **software**, **machine learning** and **words**. They look unrelated, but they train the same habit: read closely, notice what doesn't fit, and follow it.
 
-## The *archive*
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- ### Cyber Incident Simulator
+**🌙 By night, the writer**
+- Poetry and creative writing
+- Model United Nations
+- Public speaking and presentations
+- Websites that carry a mood
 
-  Python · MITRE ATT&CK · Incident Response
+</td>
+<td width="50%" valign="top">
 
-  Generates incidents, correlates events, flags suspicious activity, maps it to MITRE ATT&CK and writes the investigation report.
-- ### DepShield AI
+**⌨️ By day, the builder**
+- Security tools and simulations
+- Web apps and developer utilities
+- Practical AI/ML systems
+- Data-driven applications
 
-  Python · AI/ML · Supply-chain security
+</td>
+</tr>
+</table>
 
-  A concept for spotting vulnerable or suspicious dependencies and judging what a third-party package could do to your project.
-- ### The Hollow Archive
+---
 
-  HTML · CSS · JavaScript · Canvas
+## 📚 The archive
 
-  A dark-fantasy visual novel with branching stories, saved state and atmospheric effects. Built with no frameworks.
-- ### Dead Reckoning System
+Six things I've built or am building. Open any of them for the details.
 
-  AI/ML · Sensor fusion · Embedded
+<details>
+<summary><b>🔐 Cyber Incident Simulator</b> &nbsp;·&nbsp; <sub>Python · MITRE ATT&CK · Incident Response</sub></summary>
+<br/>
 
-  Navigation without GPS. It fuses IMU, wheel-encoder and magnetometer data and uses machine learning to correct drift.
-- ### BTC-Adapt
+A security incident simulation and investigation platform. It works like an analyst's day compressed into one tool:
 
-  Python · XGBoost · LSTM · Time series
+1. **Generate** realistic incidents
+2. **Correlate** the events that belong together
+3. **Detect** suspicious activity
+4. **Map** it to **MITRE ATT&CK**
+5. **Report**, with an investigation write-up at the end
 
-  A Bitcoin forecasting framework that switches models by market regime, with evaluation and backtesting.
-- ### Static & Stanza
+*Why I built it:* to practise thinking like a responder, not just a coder.
+</details>
 
-  HTML · CSS · JavaScript · Netlify
+<details>
+<summary><b>🛡️ DepShield AI</b> &nbsp;·&nbsp; <sub>Python · AI/ML · Software supply-chain security</sub></summary>
+<br/>
 
-  A minimalist poetry site where web development and creative writing share one page.
+An AI-powered concept for **software supply-chain security**. It aims to identify vulnerable or suspicious dependencies and analyse the potential security impact of third-party packages, so the question stops being "does it work?" and becomes "should I trust it?"
+</details>
 
-## What's on *my shelves*
+<details>
+<summary><b>🕯️ The Hollow Archive</b> &nbsp;·&nbsp; <sub>HTML · CSS · JavaScript · Canvas</sub></summary>
+<br/>
 
-### Languages
+An interactive **dark-fantasy visual novel** written in vanilla HTML, CSS and JavaScript, with no frameworks.
+- Branching narratives
+- Persistent state
+- Interactive effects and atmospheric web design
 
-CC++PythonJavaJavaScriptSQL
+The place where the writer and the developer share a desk.
+</details>
 
-### Security
+<details>
+<summary><b>🧭 AI-ML Intelligent Dead Reckoning System</b> &nbsp;·&nbsp; <sub>AI/ML · Embedded · Sensor fusion</sub></summary>
+<br/>
 
-Digital forensicsIncident responseMITRE ATT&CKSIEMThreat detectionVulnerability analysis
+Navigation for places where **GNSS is denied**. It fuses **IMU, wheel-encoder and magnetometer** data and explores machine-learning-based **drift correction**, because dead reckoning gets less accurate the longer it runs.
+</details>
 
-### Web
+<details>
+<summary><b>₿ BTC-Adapt</b> &nbsp;·&nbsp; <sub>Python · XGBoost · LSTM · Time series</sub></summary>
+<br/>
 
-HTMLCSSREST APIsFull-stack
+An **adaptive, regime-aware multi-model framework** for Bitcoin price forecasting. Different market conditions call for different models, so it is built around model evaluation and backtesting, not a single model.
+</details>
 
-### AI / ML
+<details>
+<summary><b>📝 Static & Stanza</b> &nbsp;·&nbsp; <sub>HTML · CSS · JavaScript · Netlify</sub></summary>
+<br/>
 
-XGBoostLSTMForecastingModel evaluationEDA
+A minimalist **poetry and writing website**, built to combine web development with creative writing. Small on purpose.
+</details>
 
-### Tools
+---
 
-Git & GitHubLinuxDockerVS CodeVirtualBox
+## 🧰 On my shelves
 
-### Learning now
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css&theme=dark"/><br/>
+  <img src="https://skillicons.dev/icons?i=linux,kali,git,github,docker,vscode&theme=dark"/>
+</p>
 
-DSABackendDevOpsSystem design
+| Shelf | What's on it |
+|---|---|
+| 🔐 **Security** | Digital forensics · Incident response · Security analysis · MITRE ATT&CK · SIEM · Threat detection · Vulnerability analysis · Security automation |
+| 🤖 **AI / ML** | Python · Data processing · Exploratory data analysis · Time-series forecasting · XGBoost · LSTM · Model evaluation |
+| 🌐 **Web** | HTML · CSS · JavaScript · REST APIs · Frontend, backend and full-stack (exploring) |
+| 🗄️ **Data** | SQL · Relational databases · Database design · Joins and subqueries |
+| 🧰 **Tools** | Git · GitHub · VS Code · Linux · Windows · VirtualBox · Docker |
 
-Somewhere between debugging code and writing poetry, I'm still figuring out what to build next.
+---
 
-Strengthen C++ & DSAShip meaningful projectsGrow in cybersecurityContribute to open sourceExplore backend
+## 🧭 Where I'm headed
 
-Smart India Hackathon 2026, SIT hackathons, Model UN and a lot of open-source exploring so far.
+```text
+🔐 Cybersecurity ──── Digital Forensics · Incident Response · Threat Detection · Security Automation
+💻 Software ──────── DSA in C++ · Web · Backend · Developer tools
+🤖 AI / ML ───────── Applied ML · Time-series · AI-powered security
+🌐 Open source ───── Exploring  →  Contributing  →  Building
+```
 
-## Let's *build* something
+**Learning right now:** `Data Structures & Algorithms` · `Backend` · `Cybersecurity` · `Digital Forensics` · `DevOps` · `System Design`
 
-Open to internships, collaborations and good conversations about security, software or verse.
+**Goals:**
+- [ ] Get strong at **C++ and DSA**
+- [ ] Build meaningful, **industry-ready** projects
+- [ ] Go deeper into **cybersecurity**
+- [ ] Make my first **open-source contributions**
+- [ ] Explore **backend and full-stack** development
+- [x] Keep learning and shipping
 
-[GitHub](https://github.com/shreya2707-glitch) [LinkedIn](https://www.linkedin.com/in/shreya-panda-a7691b320/) [Email me](mailto:shreyapanda2707@gmail.com)
+---
 
-Built by hand, by lamplight. Move your cursor, the light follows.
+## 🏆 Field notes
+
+- 🚀 **Smart India Hackathon 2026**
+- 💡 SIT hackathons
+- 🧑‍💻 Open-source exploration
+- 🎤 Model United Nations, public speaking and presentations
+- ✍️ Poetry and creative writing
+
+---
+
+## 📈 The numbers
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shreya2707-glitch&show_icons=true&hide_border=true&rank_icon=github&bg_color=130e1e&title_color=f0c26a&text_color=eee7f4&icon_color=a99cff"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya2707-glitch&layout=compact&hide_border=true&bg_color=130e1e&title_color=f0c26a&text_color=eee7f4"/>
+</p>
+
+---
+
+## 🤝 Let's build something
+
+I'm open to **internships**, **open-source collaboration** and good conversations about security, software or verse.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreya-panda-a7691b320/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:shreyapanda2707@gmail.com">Email</a>
+</p>
+
+<p align="center"><i>Somewhere between debugging code and writing poetry,<br/>I'm still figuring out what to build next.</i></p>

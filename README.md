@@ -1,186 +1,276 @@
-<p align="center">
-  <img src="./hero.svg" alt="Shreya. Student, builder, poet." width="100%"/>
-</p>
+<!-- ═══════════════ HEADER ═══════════════ -->
+<div align="center">
 
-<p align="center">
-  <b>B.Tech CSE · Symbiosis Institute of Technology, Pune</b><br/>
-  <sub>cybersecurity · web · applied ML · poetry</sub>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=230&section=header&text=Shreya%20Panda&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Building%20%E2%80%A2%20Breaking%20%E2%80%A2%20Learning%20%E2%80%A2%20Writing&descAlignY=58&descSize=18" alt="header"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shreya-panda-a7691b320/"><img src="https://img.shields.io/badge/LinkedIn-say%20hi-a99cff?style=for-the-badge&labelColor=130e1e&logo=linkedin&logoColor=f0c26a"/></a>
-  <a href="mailto:shreyapanda2707@gmail.com"><img src="https://img.shields.io/badge/Email-write%20to%20me-f0c26a?style=for-the-badge&labelColor=130e1e&logo=gmail&logoColor=a99cff"/></a>
-</p>
+<a href="https://github.com/shreya2707-glitch">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=24C6DC&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%86%92+CSE+student+%40+SIT+Pune;Digital+Forensics+Analyst+Fellow+%40+DeepCytes;Cybersecurity+%7C+AI%2FML+%7C+Software+Dev;I+break+things+to+understand+them+%F0%9F%94%8D;I+write+poems+between+the+commits+%E2%9C%8D%EF%B8%8F" alt="typing animation"/>
+</a>
 
-> *Building things, breaking things, learning from them, and occasionally writing about them.*
+<br/>
 
-<p align="center"><img src="./divider.svg" width="100%" alt=""/></p>
+![Profile Views](https://komarev.com/ghpvc/?username=shreya2707-glitch&style=for-the-badge&color=302b63&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/shreya2707-glitch?style=for-the-badge&logo=github&color=24c6dc&labelColor=0f0c29)
+![Repos](https://img.shields.io/badge/Public%20Repos-16-302b63?style=for-the-badge&logo=github&labelColor=0f0c29)
+![Contributions](https://img.shields.io/badge/Contributions-160%2B-24c6dc?style=for-the-badge&logo=git&labelColor=0f0c29)
 
-## 🕯️ Second year, *many doors*
+</div>
 
-I'm a second-year Computer Science student, and I'm most interested in software that does something real: a simulator that catches an attacker, a model that corrects a drifting sensor, a website that holds a poem.
+---
 
-I split my curiosity between **security**, **software**, **machine learning** and **words**. They look unrelated, but they train the same habit: read closely, notice what doesn't fit, and follow it.
+## 🧭 Choose your path
+
+<div align="center">
+
+| 🕵️ Recruiter | 🛠️ Collaborator | 📚 Curious reader |
+|:---:|:---:|:---:|
+| [**Skip to Projects ➜**](#-featured-projects) | [**See the Toolbox ➜**](#-toolbox) | [**Read the story ➜**](#-about-me) |
+
+</div>
+
+> 💡 **Tip:** every section below with a ▶ arrow is expandable. Click to open!
+
+---
+
+## 👩‍💻 About me
+
+```python
+class Shreya:
+    def __init__(self):
+        self.name      = "Shreya Panda"
+        self.degree    = "B.Tech CSE @ Symbiosis Institute of Technology, Pune (2025–29)"
+        self.fellowship = "Digital Forensics Analyst Fellow @ DeepCytes"
+        self.focus     = ["Cybersecurity & Digital Forensics", "AI / ML", "Software Development"]
+        self.currently = ["Building a research publication profile", "Shipping hackathon projects", "Learning DFIR the hard way"]
+        self.writes    = "poetry, code and the occasional bug report"
+
+    def motto(self):
+        return "Building, breaking & learning."
+```
+
+<details>
+<summary><b>▶ 🎯 What I'm up to right now</b></summary>
+<br/>
+
+- 🔐 Investigating and documenting incidents through my **Digital Forensics fellowship at DeepCytes**
+- 🧪 Designing hands-on DFIR practice projects mapped to **MITRE ATT&CK**
+- 🧠 Exploring research ideas at the crossroads of **AI, computer vision and healthcare**
+- 🚀 Competing in hackathons and building things that actually ship
+- 🏆 Taking ideas from hackathon pitch to working prototype
+
+</details>
+
+<details>
+<summary><b>▶ 🌱 Currently learning</b></summary>
+<br/>
+
+`Digital Forensics` · `Incident Response` · `Threat Modelling` · `LLM Fine-tuning` · `Applied ML Research` · `Computer Vision`
+
+</details>
+
+<details>
+<summary><b>▶ ⚡ Fun facts</b></summary>
+<br/>
+
+- 🏫 Schooled in **Surat** before moving to **Pune**
+- ✍️ Writer first, hacker second (or is it the other way around?)
+- 🎧 My repo called `mixtape` is a love letter to music
+- 🕳️ I built a visual-novel engine from scratch in vanilla JS because why not
+
+</details>
+
+---
+
+## 🧰 Toolbox
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,html,css,c,cpp,bash&theme=dark" alt="languages"/>
+
+**Frameworks & Tools**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,tailwind,git,github,linux,vscode&theme=dark" alt="tools"/>
+
+**Data & Cloud**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,vercel&theme=dark" alt="data"/>
+
+</div>
+
+<details>
+<summary><b>▶ 🛡️ Cybersecurity & Forensics arsenal</b></summary>
+<br/>
+
+| Area | What I work with |
+|---|---|
+| 🔎 **DFIR** | Timeline analysis, evidence handling, log investigation, incident reporting |
+| 🗺️ **Frameworks** | MITRE ATT&CK mapping, responsible disclosure workflows |
+| 🧱 **Supply chain & scams** | Dependency risk ideas, scam-detection tooling |
+| 📝 **Documentation** | Vulnerability write-ups, forensic reports |
+
+</details>
+
+<details>
+<summary><b>▶ 🤖 AI / ML interests</b></summary>
+<br/>
+
+| Area | Focus |
+|---|---|
+| 🗣️ **Speech & accessibility** | Speech recognition for assistive tech |
+| 👁️ **Computer vision** | Contactless health sensing, healthcare AI |
+| 💬 **LLMs** | API-powered apps, error-correction pipelines |
+
+</details>
+
+---
+
+## 🚀 Featured projects
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🌙 By night, the writer**
-- Poetry and creative writing
-- Model United Nations
-- Public speaking and presentations
-- Websites that carry a mood
+### 🛡️ [ScamShield India](https://github.com/shreya2707-glitch/scamshield-india)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Groq](https://img.shields.io/badge/Groq%20API-F55036?style=flat-square)
+
+A scam-detection and practice web app built **solo** for the **HackDevengers 2.0** hackathon. Helps people spot and rehearse responses to common scams.
 
 </td>
 <td width="50%" valign="top">
 
-**⌨️ By day, the builder**
-- Security tools and simulations
-- Web apps and developer utilities
-- Practical AI/ML systems
-- Data-driven applications
+### 📖 [Hollow Archive](https://github.com/shreya2707-glitch/Hollow-Archive-)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+A browser-based, **zero-dependency visual novel and interactive fiction engine** built entirely with vanilla HTML5, CSS3 and ES6+ JavaScript.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💓 [Contactless Pulse Monitor](https://github.com/shreya2707-glitch/contactless-pulse-monitor)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+Python and computer vision project that uses **Haar-cascade face detection** to explore measuring pulse without touching the patient.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏛️ [SIH 2026 · SIH26168](https://github.com/shreya2707-glitch/SIH26168)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Hackathon](https://img.shields.io/badge/Smart%20India%20Hackathon-2026-FF9933?style=flat-square)
+
+My **Smart India Hackathon 2026** entry: the idea document, the presentation deck and a front-end prototype page.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✍️ [Static &amp; Stanza](https://github.com/shreya2707-glitch/Static-and-Stanza)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+Where code meets poetry: a web page for my writing.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎧 [Mixtape](https://github.com/shreya2707-glitch/mixtape)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+A music mixtape built as a front-end web project. ⭐ starred.
 
 </td>
 </tr>
 </table>
 
-<p align="center"><img src="./divider.svg" width="100%" alt=""/></p>
-
-## 📚 The archive
-
-Six things I've built or am building. Open any of them for the details.
+</div>
 
 <details>
-<summary><b>🔐 Cyber Incident Simulator</b> &nbsp;·&nbsp; <sub>Python · MITRE ATT&CK · Incident Response</sub></summary>
+<summary><b>▶ 🔬 Work in progress (not on GitHub yet)</b></summary>
 <br/>
 
-A security incident simulation and investigation platform. It works like an analyst's day compressed into one tool:
+- 🕵️ **Cyber Incident Simulator**: fictional attack scenario with SOC dashboard, forensic investigation and ATT&CK-mapped timeline
+- 🗣️ **Dysarthric Speech Recognition**: assistive device using Whisper + LoRA, LLM error correction and TTS
+- 🩸 **Rakt Setu**: blood donation PWA
+- 🗄️ **Security Incident Attack-Path Database**: DBMS mini project
 
-1. **Generate** realistic incidents
-2. **Correlate** the events that belong together
-3. **Detect** suspicious activity
-4. **Map** it to **MITRE ATT&CK**
-5. **Report**, with an investigation write-up at the end
-
-*Why I built it:* to practise thinking like a responder, not just a coder.
 </details>
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreya2707-glitch&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc&text_color=e0e0e0&ring_color=24c6dc&count_private=true" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya2707-glitch&layout=compact&hide_border=true&bg_color=0f0c29&title_color=24c6dc&text_color=e0e0e0&langs_count=8" alt="top langs"/>
+
+<img src="https://streak-stats.demolab.com?user=shreya2707-glitch&hide_border=true&background=0f0c29&stroke=24c6dc&ring=24c6dc&fire=ff6b6b&currStreakLabel=24c6dc&sideLabels=e0e0e0&currStreakNum=ffffff&sideNums=ffffff&dates=9e9e9e" alt="streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreya2707-glitch&bg_color=0f0c29&color=24c6dc&line=302b63&point=ffffff&area=true&area_color=24c6dc&hide_border=true" width="100%" alt="activity graph"/>
+
+</div>
 
 <details>
-<summary><b>🛡️ DepShield AI</b> &nbsp;·&nbsp; <sub>Python · AI/ML · Software supply-chain security</sub></summary>
+<summary><b>▶ 🏆 Trophies</b></summary>
 <br/>
+<div align="center">
 
-An AI-powered concept for **software supply-chain security**. It aims to identify vulnerable or suspicious dependencies and analyse the potential security impact of third-party packages, so the question stops being "does it work?" and becomes "should I trust it?"
+<img src="https://github-profile-trophy.vercel.app/?username=shreya2707-glitch&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies"/>
+
+</div>
 </details>
 
-<details>
-<summary><b>🕯️ The Hollow Archive</b> &nbsp;·&nbsp; <sub>HTML · CSS · JavaScript · Canvas</sub></summary>
-<br/>
+---
 
-An interactive **dark-fantasy visual novel** written in vanilla HTML, CSS and JavaScript, with no frameworks.
-- Branching narratives
-- Persistent state
-- Interactive effects and atmospheric web design
+## 🐍 Contribution snake
 
-The place where the writer and the developer share a desk.
-</details>
+<div align="center">
 
-<details>
-<summary><b>🧭 AI-ML Intelligent Dead Reckoning System</b> &nbsp;·&nbsp; <sub>AI/ML · Embedded · Sensor fusion</sub></summary>
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreya2707-glitch/shreya2707-glitch/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shreya2707-glitch/shreya2707-glitch/output/github-snake.svg">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shreya2707-glitch/shreya2707-glitch/output/github-snake-dark.svg">
+</picture>
 
-Navigation for places where **GNSS is denied**. It fuses **IMU, wheel-encoder and magnetometer** data and explores machine-learning-based **drift correction**, because dead reckoning gets less accurate the longer it runs.
-</details>
+</div>
 
-<details>
-<summary><b>₿ BTC-Adapt</b> &nbsp;·&nbsp; <sub>Python · XGBoost · LSTM · Time series</sub></summary>
-<br/>
+---
 
-An **adaptive, regime-aware multi-model framework** for Bitcoin price forecasting. Different market conditions call for different models, so it is built around model evaluation and backtesting, not a single model.
-</details>
+## ✍️ A little poetry
 
-<details>
-<summary><b>📝 Static & Stanza</b> &nbsp;·&nbsp; <sub>HTML · CSS · JavaScript · Netlify</sub></summary>
-<br/>
+<div align="center">
 
-A minimalist **poetry and writing website**, built to combine web development with creative writing. Small on purpose.
-</details>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&italic=true&size=18&duration=4500&pause=1500&color=B8A9FF&center=true&vCenter=true&width=640&lines=Every+bug+is+a+stanza+I+haven't+understood+yet.;Static+on+the+line%2C+meaning+in+the+noise.;I+debug+the+world+one+line+at+a+time." alt="poetic quotes"/>
 
-<p align="center"><img src="./divider.svg" width="100%" alt=""/></p>
+[**Read more in Static-and-Stanza ➜**](https://github.com/shreya2707-glitch/Static-and-Stanza)
 
-## 🧰 On my shelves
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css&theme=dark"/><br/>
-  <img src="https://skillicons.dev/icons?i=linux,kali,git,github,docker,vscode&theme=dark"/>
-</p>
+---
 
-| Shelf | What's on it |
-|---|---|
-| 🔐 **Security** | Digital forensics · Incident response · Security analysis · MITRE ATT&CK · SIEM · Threat detection · Vulnerability analysis · Security automation |
-| 🤖 **AI / ML** | Python · Data processing · Exploratory data analysis · Time-series forecasting · XGBoost · LSTM · Model evaluation |
-| 🌐 **Web** | HTML · CSS · JavaScript · REST APIs · Frontend, backend and full-stack (exploring) |
-| 🗄️ **Data** | SQL · Relational databases · Database design · Joins and subqueries |
-| 🧰 **Tools** | Git · GitHub · VS Code · Linux · Windows · VirtualBox · Docker |
+## 📫 Let's connect
 
-<p align="center"><img src="./divider.svg" width="100%" alt=""/></p>
+<div align="center">
 
-## 🧭 Where I'm headed
+[![GitHub](https://img.shields.io/badge/GitHub-shreya2707--glitch-181717?style=for-the-badge&logo=github)](https://github.com/shreya2707-glitch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
 
-```text
-🔐 Cybersecurity ──── Digital Forensics · Incident Response · Threat Detection · Security Automation
-💻 Software ──────── DSA in C++ · Web · Backend · Developer tools
-🤖 AI / ML ───────── Applied ML · Time-series · AI-powered security
-🌐 Open source ───── Exploring  →  Contributing  →  Building
-```
+**Open to:** research collaborations · cybersecurity projects · hackathon teams · useful open source
 
-**Learning right now:** `Data Structures & Algorithms` · `Backend` · `Cybersecurity` · `Digital Forensics` · `DevOps` · `System Design`
+</div>
 
-**Goals:**
-- [ ] Get strong at **C++ and DSA**
-- [ ] Build meaningful, **industry-ready** projects
-- [ ] Go deeper into **cybersecurity**
-- [ ] Make my first **open-source contributions**
-- [ ] Explore **backend and full-stack** development
-- [x] Keep learning and shipping
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" alt="footer"/>
 
-<p align="center"><img src="./divider.svg" width="100%" alt=""/></p>
-
-## 🏆 The hackathon trail
-
-<p>
-  <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-2026-f0c26a?style=for-the-badge&labelColor=130e1e"/>
-  <img src="https://img.shields.io/badge/Adobe-Hackathon-a99cff?style=for-the-badge&labelColor=130e1e&logo=adobe&logoColor=f0c26a"/>
-  <img src="https://img.shields.io/badge/Navchar-Hackathon-f0c26a?style=for-the-badge&labelColor=130e1e"/>
-  <img src="https://img.shields.io/badge/HackDevengers-a99cff?style=for-the-badge&labelColor=130e1e"/>
-  <img src="https://img.shields.io/badge/SIT-Hackathons-f0c26a?style=for-the-badge&labelColor=130e1e"/>
-</p>
-
-Building against a clock is where ideas turn into working software. I've taken part in **Smart India Hackathon 2026**, the **Adobe Hackathon**, the **Navchar Hackathon**, **HackDevengers** and hackathons at **SIT**.
-
-**Beyond hackathons:**
-- 🧑‍💻 Open-source exploration
-- 🎤 Model United Nations, public speaking and presentations
-- ✍️ Poetry and creative writing
-
-<p align="center"><img src="./divider.svg" width="100%" alt=""/></p>
-
-## 📈 The numbers
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shreya2707-glitch&show_icons=true&hide_border=true&rank_icon=github&bg_color=130e1e&title_color=f0c26a&text_color=eee7f4&icon_color=a99cff"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya2707-glitch&layout=compact&hide_border=true&bg_color=130e1e&title_color=f0c26a&text_color=eee7f4"/>
-</p>
-
-<p align="center"><img src="./divider.svg" width="100%" alt=""/></p>
-
-## 🤝 Let's build something
-
-I'm open to **internships**, **open-source collaboration** and good conversations about security, software or verse.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shreya-panda-a7691b320/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:shreyapanda2707@gmail.com">Email</a>
-</p>
-
-<p align="center"><i>Somewhere between debugging code and writing poetry,<br/>I'm still figuring out what to build next.</i></p>
+<div align="center"><sub>⭐ If something here caught your eye, drop a star on a repo, it makes my day.</sub></div>
